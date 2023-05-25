@@ -7,3 +7,9 @@ assignment 1, 2, 3, and 4
 Applied Plotting, Charting & Data Representation in Python by University of Michigan
 
 assignment 2, 3, and 4
+
+
+# Python-ML
+Applied Machine Learning in Python
+
+assignment 1
