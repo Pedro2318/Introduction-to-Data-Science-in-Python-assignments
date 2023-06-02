@@ -12,4 +12,4 @@ assignment 2, 3, and 4
 # Python-ML
 Applied Machine Learning in Python
 
-assignment 1
+assignment 1, and 2
